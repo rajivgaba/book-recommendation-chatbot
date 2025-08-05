@@ -3,6 +3,6 @@ This repository hosts the codebase for a conversational chatbot designed to reco
 
 ###### Key features include:
 
-Conversational Intelligence: Utilizes OpenAI's GPT-3.5 Turbo and Perplexity's Sonar-Pro LLMs to interpret and respond to user inputs effectively.
-Content Moderation: Integrates OpenAI's Moderation API to ensure safe and appropriate interactions.
-Data-Driven Recommendations: Trained on a curated dataset from Kaggle: Good Book Recommendation API Dataset.
+- Conversational Intelligence: Utilizes OpenAI's GPT-3.5 Turbo and Perplexity's Sonar-Pro LLMs to interpret and respond to user inputs effectively.
+- Content Moderation: Integrates OpenAI's Moderation API to ensure safe and appropriate interactions.
+- Data-Driven Recommendations: Trained on a curated dataset from Kaggle: Good Book Recommendation API Dataset.
